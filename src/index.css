@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=NanumSquare_ac:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Klavika:wght@700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --detail: NanumSquare_ac;
+  --font-klavika: Klavika;
+
+  /* font sizes */
+  --title-size: 16px;
+  --detail-size: 12px;
+  --body-b-size: 14px;
+
+  /* Colors */
+  --white: #fff;
+  --background: #f2f3f4;
+  --grey-f1: #f1f1f1;
+  --grey-e: #eee;
+  --grey-d: #ddd;
+  --grey-3: #333;
+  --grey-9: #999;
+  --grey-6: #666;
+  --grey-c: #ccc;
+
+  /* Gaps */
+  --gap-5xs: 8px;
+  --gap-xs: 12px;
+  --gap-xl: 20px;
+  --gap-9xs: 4px;
+
+  /* Paddings */
+  --padding-xl: 20px;
+  --padding-5xs: 8px;
+  --padding-xs: 12px;
+
+  /* Border radiuses */
+  --br-81xl: 100px;
+  --br-xs: 12px;
+  --br-9xs: 4px;
+}
